@@ -1,0 +1,19 @@
+* {
+	margin: 5px;
+	padding: 2px;
+}
+
+main {
+	display: flex;
+	flex-direction: column;
+}
+
+h2 {
+	color: purple;
+}
+
+input {
+	border-color: purple;
+	border-width: 0.5px;
+	border-radius: 5px;
+}
